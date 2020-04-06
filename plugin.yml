@@ -1,0 +1,15 @@
+name: MegaBlastCORE
+version: 1.0
+main: dev.freaky.megablast.Main
+description: Commands for MegaBlast
+commands:
+   
+   apply:
+      usage: /<command>
+      
+   hub:
+      usage: /<command>
+      
+   core:
+      usage: /<command>
+      aliases: [cr]

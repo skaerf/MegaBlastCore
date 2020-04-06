@@ -1,0 +1,20 @@
+# Welcome to the MegaBlastCORE config file!
+# Here you can change the messages that players recieve when they type your commands.
+
+# This is the prefix that is shown before the message.
+prefix: "&c&lMegaBlast >>"
+
+# This is the message that players get when they type /apply.
+applymessage: "&aYou can apply at https://changelinkinconfig.yml"
+
+# This is the message that players get when they type /hub.
+hubmessage: "&aSending you to hub!"
+
+# This is the message that players get when they click on a game in the compass. Type %game% to say the game they are being teleported to.
+sending: "&aSending you to &l%game%!"
+
+# This is the message that players get when they don't have permission to run a command.
+noperm: "&cYou don't have permission!"
+
+# This is the message that players get when they reload the plugin.
+reload: "&aReloaded successfully!"
